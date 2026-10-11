@@ -14,7 +14,7 @@
   "content_scripts": [
     {
       "matches": [
-        "https://xenerycenery1-pixel.github.io/*",
+        "https://nol3devtool.github.io/*",
         "http://localhost/*",
         "http://127.0.0.1/*",
         "file:///*"
