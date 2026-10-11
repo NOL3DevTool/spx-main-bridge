@@ -355,7 +355,7 @@ function isBaukoPage(url) {
   const u = String(url || "");
   return /^file:/i.test(u) ||
     /^https?:\/\/(localhost|127\.0\.0\.1)(?::\d+)?(?:\/|$)/i.test(u) ||
-    /^https:\/\/xenerycenery1-pixel\.github\.io(?:[/:]|$)/i.test(u);
+    /^https:\/\/nol3devtool\.github\.io(?:[/:]|$)/i.test(u);
 }
 
 chrome.runtime.onConnect.addListener((port) => {
